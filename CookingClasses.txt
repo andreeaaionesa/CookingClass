@@ -1,0 +1,7 @@
+7
+1;Tort;french;980;25.07.2021;7
+2;Gogosi;romanian;1234;20.07.2021;8
+3;Pizza;italian;1768;21.07.2022;10
+4;Pasta;italian;1234;08.08.2022;9
+5;Ice cream2;english;5670;17.08.2022;15
+6;Cream;italian;4567;23.09.2022;9
